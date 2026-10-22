@@ -1,0 +1,43 @@
+name: DPS-avsnitt
+
+on:
+  schedule:
+    - cron: '7 * * * *'   # varje timme, 7 minuter över (UTC)
+  workflow_dispatch:      # gör att du kan köra den manuellt för att testa
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hämta senaste avsnitt från SR
+        run: |
+          set -euo pipefail
+          curl -fsS --retry 3 \
+            "https://api.sr.se/api/v2/episodes/index?programid=4743&format=json&size=10" \
+          | jq '{
+              program: "Det politiska spelet",
+              episodes: [.episodes[] | {
+                id,
+                title,
+                description,
+                url,
+                published: (.publishdateutc | capture("(?<ms>-?[0-9]+)").ms
+                            | tonumber / 1000 | floor | todate)
+              }]
+            }' > episodes.json
+
+      - name: Committa bara om något ändrats
+        run: |
+          if [[ -n "$(git status --porcelain episodes.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add episodes.json
+            git commit -m "Nytt avsnitt: $(jq -r '.episodes[0].title' episodes.json)"
+            git push
+          fi
+          
