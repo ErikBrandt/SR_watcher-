@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2892053,
+      "title": "680: Extrapodd – Ingen majoritet för en mittenregering",
+      "description": "Varför misslyckades Elisabeth Thand Ringqvist med att få ihop en regering med stöd av riksdagens mittenpartier. Vad händer nu i jakten på en ny regering?",
+      "url": "https://www.sverigesradio.se/avsnitt/2892053",
+      "published": "2026-10-26T15:25:00Z"
+    },
+    {
       "id": 2891662,
       "title": "679: Elisabeth Thand Ringqvist jagar en mittendröm",
       "description": "Försvann Centerns mittenlösning innan den hann prövas? Varför dansar ingen med Elisabeth Thand Ringqvist? Bör partiledarna inspireras av regionala samarbeten?",
@@ -63,13 +70,6 @@
       "description": "Hur ska Magdalena Andersson få ihop en regering som stöds av både Centern och Vänsterpartiet? Kan Ulf Kristersson istället lyckas få över Centern till sin sida? ",
       "url": "https://www.sverigesradio.se/avsnitt/2874902",
       "published": "2026-09-15T18:03:00Z"
-    },
-    {
-      "id": 2870473,
-      "title": "670: Attackbrev, feberhetta och röda linjer – allt om valrörelsen",
-      "description": "Valrörelsen har bjudit på högt tonläge, kramkalas, bitska undertoner och skamlösa inviter. Hör allt det viktigaste om politikdramat. Och vad gör partierna åt Pisa-raset? ",
-      "url": "https://www.sverigesradio.se/avsnitt/2870473",
-      "published": "2026-09-10T16:05:00Z"
     }
   ]
 }
