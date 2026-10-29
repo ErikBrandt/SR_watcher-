@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2893526,
+      "title": "681: Schism om svenskhet inom SD",
+      "description": "Sverigedemokraterna bråkar om svenskhet, är den öppen eller stängd? Är det valresultatet som fått partitopparna att hamna i luven på varandra?",
+      "url": "https://www.sverigesradio.se/avsnitt/2893526",
+      "published": "2026-10-29T17:05:00Z"
+    },
+    {
       "id": 2892053,
       "title": "680: Extrapodd – Ingen majoritet för en mittenregering",
       "description": "Varför misslyckades Elisabeth Thand Ringqvist med att få ihop en regering med stöd av riksdagens mittenpartier. Vad händer nu i jakten på en ny regering?",
@@ -63,13 +70,6 @@
       "description": "Bakom stängda dörrar har de rödgröna ledarna börjat prata, gör de några framsteg? Och de borgliga partierna verkar drömma om alliansen igen, är det realistiskt? ",
       "url": "https://www.sverigesradio.se/avsnitt/2877956",
       "published": "2026-09-17T16:05:00Z"
-    },
-    {
-      "id": 2874902,
-      "title": "671: Socialdemokraterna måste trolla med knäna",
-      "description": "Hur ska Magdalena Andersson få ihop en regering som stöds av både Centern och Vänsterpartiet? Kan Ulf Kristersson istället lyckas få över Centern till sin sida? ",
-      "url": "https://www.sverigesradio.se/avsnitt/2874902",
-      "published": "2026-09-15T18:03:00Z"
     }
   ]
 }
