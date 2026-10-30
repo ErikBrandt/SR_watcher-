@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2893695,
+      "title": "682: Extrapodd – En oväntad statsministeromröstning",
+      "description": "Talmannen drog fram en ny statsministerkandidat ur rockärmen, men varför surar alla när ingen ställer upp frivilligt?",
+      "url": "https://www.sverigesradio.se/avsnitt/2893695",
+      "published": "2026-10-30T13:03:00Z"
+    },
+    {
       "id": 2893526,
       "title": "681: Schism om svenskhet inom SD",
       "description": "Sverigedemokraterna bråkar om svenskhet, är den öppen eller stängd? Är det valresultatet som fått partitopparna att hamna i luven på varandra?",
@@ -63,13 +70,6 @@
       "description": "En politisk bomb har briserat efter att en vänsterpartistisk kryssraket tog sig till riksdagen. Och högerpolitiker anser att valförlusten beror på utrikes födda väljare.",
       "url": "https://www.sverigesradio.se/avsnitt/2878478",
       "published": "2026-09-22T18:03:00Z"
-    },
-    {
-      "id": 2877956,
-      "title": "672: Dags att lägga det krångliga regeringspusslet",
-      "description": "Bakom stängda dörrar har de rödgröna ledarna börjat prata, gör de några framsteg? Och de borgliga partierna verkar drömma om alliansen igen, är det realistiskt? ",
-      "url": "https://www.sverigesradio.se/avsnitt/2877956",
-      "published": "2026-09-17T16:05:00Z"
     }
   ]
 }
