@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2893977,
+      "title": "683: Extrapodd – Över till Ulf Kristersson",
+      "description": "Ett väntat NEJ i statsministeromröstningen – nu är det Ulf Kristerssons tur. Men har några röda linjer flyttats som förändrat spelplanen?",
+      "url": "https://www.sverigesradio.se/avsnitt/2893977",
+      "published": "2026-11-03T19:30:00Z"
+    },
+    {
       "id": 2893695,
       "title": "682: Extrapodd – En oväntad statsministeromröstning",
       "description": "Talmannen drog fram en ny statsministerkandidat ur rockärmen, men varför surar alla när ingen ställer upp frivilligt?",
@@ -63,13 +70,6 @@
       "description": "Varför tog det så lång tid innan Vänsterpartiets ledning kommenterade det misstänkta valfusket? Hur mår personvalssystemet? Och talmannen lämnar över stafettpinnen. ",
       "url": "https://www.sverigesradio.se/avsnitt/2881600",
       "published": "2026-09-24T16:05:00Z"
-    },
-    {
-      "id": 2878478,
-      "title": "673: Misstänkt valfusk och sura Sverigedemokrater",
-      "description": "En politisk bomb har briserat efter att en vänsterpartistisk kryssraket tog sig till riksdagen. Och högerpolitiker anser att valförlusten beror på utrikes födda väljare.",
-      "url": "https://www.sverigesradio.se/avsnitt/2878478",
-      "published": "2026-09-22T18:03:00Z"
     }
   ]
 }
