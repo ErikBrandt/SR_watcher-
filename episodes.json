@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2895048,
+      "title": "684: Nästan alla vill leka med Centern",
+      "description": "Ulf Kristersson sonderar och lockar på Elisabeth Thand Ringqvist. Även Magdalena Andersson jagar Centern. Hur länge kan Centerpartiet stå still i mitten? ",
+      "url": "https://www.sverigesradio.se/avsnitt/2895048",
+      "published": "2026-11-05T17:05:00Z"
+    },
+    {
       "id": 2893977,
       "title": "683: Extrapodd – Över till Ulf Kristersson",
       "description": "Ett väntat NEJ i statsministeromröstningen – nu är det Ulf Kristerssons tur. Men har några röda linjer flyttats som förändrat spelplanen?",
@@ -63,13 +70,6 @@
       "description": "Magdalena Andersson kastade in handduken när vänsterpartiet satsade på Moderaternas talman. Vem får uppdraget att sondera nu och vilken roll spelar Andreas Norlén?",
       "url": "https://www.sverigesradio.se/avsnitt/2882239",
       "published": "2026-09-29T18:03:00Z"
-    },
-    {
-      "id": 2881600,
-      "title": "674: Vänsterpartiet krishanterar i snigelfart",
-      "description": "Varför tog det så lång tid innan Vänsterpartiets ledning kommenterade det misstänkta valfusket? Hur mår personvalssystemet? Och talmannen lämnar över stafettpinnen. ",
-      "url": "https://www.sverigesradio.se/avsnitt/2881600",
-      "published": "2026-09-24T16:05:00Z"
     }
   ]
 }
