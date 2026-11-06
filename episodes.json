@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2895465,
+      "title": "685: Extrapodd – Åkesson, Thand Ringqvist och Kristersson",
+      "description": "Sverigedemokraterna släpper fram en borgerlig regering. Centerpartiet svarar att de vill se vad som bjuds från båda sidorna och Moderaterna behöver mer tid.",
+      "url": "https://www.sverigesradio.se/avsnitt/2895465",
+      "published": "2026-11-06T16:05:00Z"
+    },
+    {
       "id": 2895048,
       "title": "684: Nästan alla vill leka med Centern",
       "description": "Ulf Kristersson sonderar och lockar på Elisabeth Thand Ringqvist. Även Magdalena Andersson jagar Centern. Hur länge kan Centerpartiet stå still i mitten? ",
@@ -63,13 +70,6 @@
       "description": "Regeringsförhandlingarna trampar vatten efter den senaste talmansrundan? Kan oppositionen runda sina röda linjer? Samtidigt spökar den kommande höstbudgeten. ",
       "url": "https://www.sverigesradio.se/avsnitt/2885123",
       "published": "2026-10-01T16:05:00Z"
-    },
-    {
-      "id": 2882239,
-      "title": "675: Talmanskupp och bråk inför öppen ridå",
-      "description": "Magdalena Andersson kastade in handduken när vänsterpartiet satsade på Moderaternas talman. Vem får uppdraget att sondera nu och vilken roll spelar Andreas Norlén?",
-      "url": "https://www.sverigesradio.se/avsnitt/2882239",
-      "published": "2026-09-29T18:03:00Z"
     }
   ]
 }
