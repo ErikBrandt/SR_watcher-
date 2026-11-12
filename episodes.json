@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2897043,
+      "title": "686: Vänsterkrav, totalpaket och en greige budget",
+      "description": "Vänsterpartiet vill att Centern bekänner färg. Varför grälar de rödgröna inför öppen ridå? Hur går det med totalpaketen och vem blir glad av en greige budget?",
+      "url": "https://www.sverigesradio.se/avsnitt/2897043",
+      "published": "2026-11-12T17:05:00Z"
+    },
+    {
       "id": 2895465,
       "title": "685: Extrapodd – Åkesson, Thand Ringqvist och Kristersson",
       "description": "Sverigedemokraterna släpper fram en borgerlig regering. Centerpartiet svarar att de vill se vad som bjuds från båda sidorna och Moderaterna behöver mer tid.",
@@ -63,13 +70,6 @@
       "description": "Är mötet på Lidingö en möjlighet för oppositionen komma överens eller handlar det mest om politiskt spel? Och varför möblerar Sverigedemokraterna om i toppen.",
       "url": "https://www.sverigesradio.se/avsnitt/2886954",
       "published": "2026-10-08T16:05:00Z"
-    },
-    {
-      "id": 2885123,
-      "title": "676: Det pågår ett chicken race i demokratins tjänst",
-      "description": "Regeringsförhandlingarna trampar vatten efter den senaste talmansrundan? Kan oppositionen runda sina röda linjer? Samtidigt spökar den kommande höstbudgeten. ",
-      "url": "https://www.sverigesradio.se/avsnitt/2885123",
-      "published": "2026-10-01T16:05:00Z"
     }
   ]
 }
