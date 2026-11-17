@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2898601,
+      "title": "687: Extrapodd – Kristersson vill ge C mer tid",
+      "description": "Får en vecka till - men talmannen kräver att julen fredas.",
+      "url": "https://www.sverigesradio.se/avsnitt/2898601",
+      "published": "2026-11-17T16:30:00Z"
+    },
+    {
       "id": 2897043,
       "title": "686: Vänsterkrav, totalpaket och en greige budget",
       "description": "Vänsterpartiet vill att Centern bekänner färg. Varför grälar de rödgröna inför öppen ridå? Hur går det med totalpaketen och vem blir glad av en greige budget?",
@@ -63,13 +70,6 @@
       "description": "Varför ville inte de andra rödgröna partierna rösta på S-ledaren i riksdagen? Kan oppositionen verkligen komma överens? Krävs det en karaokekväll i Rågsved? ",
       "url": "https://www.sverigesradio.se/avsnitt/2888862",
       "published": "2026-10-15T14:10:00Z"
-    },
-    {
-      "id": 2886954,
-      "title": "677: Centern bjuder in till rödgrönt ödesmöte",
-      "description": "Är mötet på Lidingö en möjlighet för oppositionen komma överens eller handlar det mest om politiskt spel? Och varför möblerar Sverigedemokraterna om i toppen.",
-      "url": "https://www.sverigesradio.se/avsnitt/2886954",
-      "published": "2026-10-08T16:05:00Z"
     }
   ]
 }
