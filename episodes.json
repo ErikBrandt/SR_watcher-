@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2900760,
+      "title": "688: Det pågår en massiv dragkamp om Centerns gunst",
+      "description": "Centerpartiet har fått totalpaket från både höger och vänster. De har valt det vänstra alternativet men lockropen från höger hörs fortfarande. Vad händer nu? ",
+      "url": "https://www.sverigesradio.se/avsnitt/2900760",
+      "published": "2026-11-19T17:05:00Z"
+    },
+    {
       "id": 2898601,
       "title": "687: Extrapodd – Kristersson vill ge C mer tid",
       "description": "Får en vecka till - men talmannen kräver att julen fredas.",
@@ -63,13 +70,6 @@
       "description": "Försvann Centerns mittenlösning innan den hann prövas? Varför dansar ingen med Elisabeth Thand Ringqvist? Bör partiledarna inspireras av regionala samarbeten?",
       "url": "https://www.sverigesradio.se/avsnitt/2891662",
       "published": "2026-10-22T16:05:00Z"
-    },
-    {
-      "id": 2888862,
-      "title": "678: Flopp för Magdalena Andersson i första omröstningen",
-      "description": "Varför ville inte de andra rödgröna partierna rösta på S-ledaren i riksdagen? Kan oppositionen verkligen komma överens? Krävs det en karaokekväll i Rågsved? ",
-      "url": "https://www.sverigesradio.se/avsnitt/2888862",
-      "published": "2026-10-15T14:10:00Z"
     }
   ]
 }
