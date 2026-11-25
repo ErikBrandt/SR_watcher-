@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2901636,
+      "title": "689: Extrapodd – Riksdagen ska pröva Ulf Kristersson",
+      "description": "Magdalena Anderssons får inte ihop sitt rödgröna alternativ. Därför ska Ulf Kristersson nu försöka bilda regering. Samtidigt lurar extravalet runt hörnet.",
+      "url": "https://www.sverigesradio.se/avsnitt/2901636",
+      "published": "2026-11-24T17:32:00Z"
+    },
+    {
       "id": 2900760,
       "title": "688: En massiv dragkamp om Centerns gunst",
       "description": "Centerpartiet har fått totalpaket från både höger och vänster. De har valt det vänstra alternativet men lockropen från höger hörs fortfarande. Vad händer nu? ",
@@ -63,13 +70,6 @@
       "description": "Varför misslyckades Elisabeth Thand Ringqvist med att få ihop en regering med stöd av riksdagens mittenpartier. Vad händer nu i jakten på en ny regering?",
       "url": "https://www.sverigesradio.se/avsnitt/2892053",
       "published": "2026-10-26T15:25:00Z"
-    },
-    {
-      "id": 2891662,
-      "title": "679: Elisabeth Thand Ringqvist jagar en mittendröm",
-      "description": "Försvann Centerns mittenlösning innan den hann prövas? Varför dansar ingen med Elisabeth Thand Ringqvist? Bör partiledarna inspireras av regionala samarbeten?",
-      "url": "https://www.sverigesradio.se/avsnitt/2891662",
-      "published": "2026-10-22T16:05:00Z"
     }
   ]
 }
