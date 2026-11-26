@@ -2,6 +2,13 @@
   "program": "Det politiska spelet",
   "episodes": [
     {
+      "id": 2901886,
+      "title": "690: Centerns falanger oense in i det sista",
+      "description": "Slitningarna inom Centern märks allt mer och frågan är nu vilken väg de ska välja? Samtidigt fortsätter de rödgröna partierna att bråka med varandra.",
+      "url": "https://www.sverigesradio.se/avsnitt/2901886",
+      "published": "2026-11-26T17:05:00Z"
+    },
+    {
       "id": 2901636,
       "title": "689: Extrapodd – Riksdagen ska pröva Ulf Kristersson",
       "description": "Magdalena Anderssons får inte ihop sitt rödgröna alternativ. Därför ska Ulf Kristersson nu försöka bilda regering. Samtidigt lurar extravalet runt hörnet.",
@@ -63,13 +70,6 @@
       "description": "Sverigedemokraterna bråkar om svenskhet, är den öppen eller stängd? Är det valresultatet som fått partitopparna att hamna i luven på varandra?",
       "url": "https://www.sverigesradio.se/avsnitt/2893526",
       "published": "2026-10-29T17:05:00Z"
-    },
-    {
-      "id": 2892053,
-      "title": "680: Extrapodd – Ingen majoritet för en mittenregering",
-      "description": "Varför misslyckades Elisabeth Thand Ringqvist med att få ihop en regering med stöd av riksdagens mittenpartier. Vad händer nu i jakten på en ny regering?",
-      "url": "https://www.sverigesradio.se/avsnitt/2892053",
-      "published": "2026-10-26T15:25:00Z"
     }
   ]
 }
